@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "appName": "Assigner",
+    "bundleId": "com.jamf.devicehelper",
+    "permissions": [
+      "Assign Users to Mobile Devices",
+      "Create Mobile Devices",
+      "Update Mobile Devices",
+      "Read Mobile Devices",
+      "Update Mobile Devices",
+      "Read Mobile Device Extension Attributes"
+    ],
+    "groupRequired": true,
+    "image": "person.crop.circle"
+  },
+  {
+    "id": "2",
+    "appName": "Mobile Assist",
+    "bundleId": "com.jamf.devicehelper",
+    "permissions": [
+      "Assign Users to Mobile Devices",
+      "Create Mobile Devices",
+      "Update Mobile Devices"
+    ],
+    "groupRequired": false,
+    "image": "iphone"
+  },
+  {
+    "id": "3",
+    "appName": "Microsoft Office",
+    "bundleId": "com.microsoft.Office.Outlook",
+    "permissions": [
+      "Assign Users to Mobile Devices"
+    ],
+    "groupRequired": true,
+    "image": "envelope.fill"
+  }
+]
