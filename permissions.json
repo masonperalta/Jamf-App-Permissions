@@ -11,7 +11,7 @@
       "Update Mobile Devices",
       "Read Mobile Device Extension Attributes"
     ],
-    "groupRequired": true,
+    "groupRequired": false,
     "image": "person.crop.circle"
   },
   {
@@ -23,7 +23,7 @@
       "Create Mobile Devices",
       "Update Mobile Devices"
     ],
-    "groupRequired": false,
+    "groupRequired": true,
     "image": "iphone"
   },
   {
@@ -33,7 +33,7 @@
     "permissions": [
       "Assign Users to Mobile Devices"
     ],
-    "groupRequired": true,
+    "groupRequired": false,
     "image": "envelope.fill"
   }
 ]
