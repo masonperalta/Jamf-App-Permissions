@@ -19,8 +19,10 @@
     "appName": "Mobile Assist",
     "bundleId": "com.jamf.devicehelper",
     "permissions": [
-      "Assign Users to Mobile Devices",
-      "Create Mobile Devices",
+      "Read Mobile Devices",
+      "Send Mobile Device Remove Passcode Command",
+      "Send Mobile Device Remote Wipe Command",
+      "Send Mobile Device Restart Device Command",
       "Update Mobile Devices"
     ],
     "groupRequired": true,
@@ -31,7 +33,11 @@
     "appName": "Microsoft Office",
     "bundleId": "com.microsoft.Office.Outlook",
     "permissions": [
-      "Assign Users to Mobile Devices"
+      "Read Mobile Devices",
+      "Send Mobile Device Remove Passcode Command",
+      "Send Mobile Device Remote Wipe Command",
+      "Send Mobile Device Restart Device Command",
+      "Update Mobile Devices"
     ],
     "groupRequired": false,
     "image": "envelope.fill"
