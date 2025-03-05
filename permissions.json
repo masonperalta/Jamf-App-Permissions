@@ -30,14 +30,9 @@
   },
   {
     "id": "3",
-    "appName": "Microsoft Office",
+    "appName": "Microsoft Office (calibration only)",
     "bundleId": "com.microsoft.Office.Outlook",
     "permissions": [
-      "Read Mobile Devices",
-      "Send Mobile Device Remove Passcode Command",
-      "Send Mobile Device Remote Wipe Command",
-      "Send Mobile Device Restart Device Command",
-      "Update Mobile Devices"
     ],
     "groupRequired": false,
     "image": "envelope.fill"
