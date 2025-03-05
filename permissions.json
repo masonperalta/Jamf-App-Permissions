@@ -30,31 +30,11 @@
   },
   {
     "id": "3",
-    "appName": "Microsoft Office (calibration only)",
+    "appName": "Microsoft Office (for demo only)",
     "bundleId": "com.microsoft.Office.Outlook",
     "permissions": [
     ],
     "groupRequired": false,
     "image": "envelope.fill"
-  },
-  {
-    "id": "4",
-    "appName": "Jamf Reset",
-    "bundleId": "com.jamf.reset",
-    "permissions": [
-      "Assign Users to Mobile Devices"
-    ],
-    "groupRequired": true,
-    "image": "iphone"
-  },
-  {
-    "id": "5",
-    "appName": "Jamf Setup",
-    "bundleId": "com.jamf.setup",
-    "permissions": [
-      "Assign Users to Mobile Devices"
-    ],
-    "groupRequired": true,
-    "image": "iphone"
   }
 ]
