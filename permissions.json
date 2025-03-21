@@ -30,11 +30,29 @@
   },
   {
     "id": "3",
-    "appName": "Microsoft Office (for demo only)",
+    "appName": "Microsoft Office 1 (for demo only)",
     "bundleId": "com.microsoft.Office.Outlook",
     "permissions": [
     ],
     "groupRequired": false,
     "image": "envelope.fill"
+  },
+  {
+    "id": "4",
+    "appName": "Microsoft Office 2 (for demo only)",
+    "bundleId": "com.microsoft.Office.Outlook",
+    "permissions": [
+    ],
+    "groupRequired": false,
+    "image": "envelope.front.fill"
+  },
+  {
+    "id": "5",
+    "appName": "Microsoft Office 3 (for demo only)",
+    "bundleId": "com.microsoft.Office.Outlook",
+    "permissions": [
+    ],
+    "groupRequired": false,
+    "image": "mail.stack.fill"
   }
 ]
