@@ -16,7 +16,7 @@
   },
   {
     "id": "2",
-    "appName": "Mobile Assist",
+    "appName": "Device Helper",
     "bundleId": "com.jamf.devicehelper",
     "permissions": [
       "Read Mobile Devices",
@@ -53,7 +53,7 @@
   },
   {
     "id": "5",
-    "appName": "Mobile Assist",
+    "appName": "Device Helper",
     "bundleId": "com.microsoft.Office.Outlook",
     "permissions": [
       "Read Mobile Devices",
