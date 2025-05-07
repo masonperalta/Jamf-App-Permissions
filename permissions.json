@@ -36,5 +36,34 @@
     ],
     "groupRequired": false,
     "image": "envelope.fill"
+  },
+  {
+    "id": "4",
+    "appName": "Assigner",
+    "bundleId": "com.microsoft.Office.Outlook",
+    "permissions": [
+      "Assign Users to Mobile Devices",
+      "Create Mobile Devices",
+      "Update Mobile Devices",
+      "Read Mobile Devices",
+      "Update Mobile Devices",
+      "Read Mobile Device Extension Attributes"
+    ],
+    "groupRequired": false,
+    "image": "person.crop.circle"
+  },
+  {
+    "id": "5",
+    "appName": "Device Helper",
+    "bundleId": "com.microsoft.Office.Outlook",
+    "permissions": [
+      "Read Mobile Devices",
+      "Send Mobile Device Remove Passcode Command",
+      "Send Mobile Device Remote Wipe Command",
+      "Send Mobile Device Restart Device Command",
+      "Update Mobile Devices"
+    ],
+    "groupRequired": true,
+    "image": "iphone"
   }
 ]
